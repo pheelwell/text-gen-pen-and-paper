@@ -1,7 +1,7 @@
 {
     "packageId": "PnP",
     "name": "Pen and Paper",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "minTextGeneratorVersion": "0.1.0",
     "description": "templates for writing on a pen and paper campaign. Note: the templates are best used with gpt-4 since they are pretty long.",
     "author": "pheelwell",
