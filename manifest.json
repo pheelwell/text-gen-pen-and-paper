@@ -3,7 +3,7 @@
     "name": "Pen and Paper",
     "version": "0.0.1",
     "minTextGeneratorVersion": "0.1.0",
-    "description": "templates for writing on a pen and paper campaign",
+    "description": "templates for writing on a pen and paper campaign. Note: the templates are best used with gpt-4 since they are pretty long.",
     "author": "pheelwell",
     "tags": "fantasy, pen and paper, dnd",
     "authorUrl": "https://github.com/pheelwell/text-gen-pen-and-paper/issues",
