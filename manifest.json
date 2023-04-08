@@ -1,11 +1,11 @@
 {
-    "packageId": "Put_Package_Id_Here",
-    "name": "Name of your package",
+    "packageId": "PnP",
+    "name": "Pen and Paper",
     "version": "0.0.1",
     "minTextGeneratorVersion": "0.1.0",
-    "description": "The description of the content of this package",
-    "author": "Your name",
-    "tags": "writing, brainstorming",
-    "authorUrl": "Support URL",
-    "repo": "username/repo"
+    "description": "templates for writing on a pen and paper campaign",
+    "author": "pheelwell",
+    "tags": "fantasy, pen and paper, dnd",
+    "authorUrl": "https://github.com/pheelwell/text-gen-pen-and-paper/issues",
+    "repo": "pheelwell/text-gen-pen-and-paper"
 }

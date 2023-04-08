@@ -1,5 +1,14 @@
 {
-"prompts":[
-"getExample"
-]
+  "prompts": [
+    "PnPFactionformat",
+    "PnPFactionQuickRefference",
+    "PnPFactionQuickRefference",
+    "PnPHistoryFormat",
+    "PnPLocalityFormat",
+    "PnPNPCFormat",
+    "PnPNPCQuickRefference",
+    "PnPRegionFormat",
+    "PnPSettlementFormat",
+    "PnPThingFormat"
+  ]
 }
